@@ -1,5 +1,8 @@
 ---
-title: Master Course Cyber Data Analytics
+title: Yara DFIR
 ---
-# Machine Learning
-Machine Learning can learn the fuzzy borders to separation problems, where it can find a solution, even if there is no clear separation between answers. It can also automates solution designs to complex problems and this reduce human workload, e.g, write a machine learning program to automate security to detect spam, malware, and intrusion detection. 
+Welcome to my blog. This website is all about showcasing my certificates, Capture The Flag achievements and my recent blog posts.  Learn more about me and my journey in the cybersecurity world.
+
+# About me
+Hi there, my name is Yara and this is my personal page. This website is all about showcasing my certificates, and Capture The Flag achievements. Learn more about me and my journey in the cybersecurity world. At the moment, I am studying Computer Science at the University of Twente and my interest lies in digital forensics and incident response.
+Made by Yara
