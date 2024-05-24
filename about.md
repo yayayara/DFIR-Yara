@@ -6,5 +6,6 @@ more_posts: posts.md
 sidebar: true
 order: 1
 ---
-
-<!--author-->
+# About me
+Welcome 
+<!--posts_list-->
