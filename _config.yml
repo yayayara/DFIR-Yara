@@ -1,33 +1,10 @@
-# General settings
-# ---------------------------------------------------------------------------------------
-
-# Language of your content in 2-letter code, e.g.: en, de.
-# You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
-
-# A short description (~150 chars) of the page used for the meta description tag.
-# Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  Master student Computer Science at University of Twente
-
-# A shorter description for the sidebar.
-tagline:               Master student Computer Science
-
-# A list of keywords for your blog
-keywords:              ["Cybersecurity", "Incident response", "digital forensics"]
-
-# A (square) logo for your site.
-# If provided, it will be shown at the top of the sidebar.
-# It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
-
 # Basic descriptions
 title: Yara
 author: 
   name: Yara van Schendel
   picture:  /assets/img/IMG_0224.jpeg
   social:
-    linkedin: yara-vanschendel-
+    linkedin: yara-vanschendel
     github:  yayayara
 description: "Master student Computer Science at University of Twente"
 tagline: "Master student Computer Science"
