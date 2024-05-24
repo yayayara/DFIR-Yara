@@ -1,36 +1,36 @@
 ---
 title: "Certificates"
-date: Y2024-05-22
+date: 2024-05-22
 ---
 # Certificates
 De afgelopen tijd heb ik mij beziggehouden met verschillende soorten certificeringen. Hieronder een opsomming.
 
 ## Essential Security 
 ### Certified Secure
-"De Essential Security certificering geeft je een praktische introductie in de wereld van Application en Server Security. Met behulp van de uitdagende Essential Security challenges leer je de basisvaardigheden SQL Injection en Path Traversal onder de knie te krijgen. Je krijgt het Certified Secure Essential Security certificaat na het succesvol online afronden van de I know what you mean quiz en de IDB Challenge. Het Essential Security certificaat toont aan dat je de SQL Injection en Path Traversal vaardigheden beheerst."
-Bekijk certificaat
-Bekijk persoonlijk Certified Secure profiel [https://www.certifiedsecure.com/profile?alias=dfir-yara]
+"The Essential Security certification provides a practical introduction to the world of Application and Server Security. With the help of the challenging Essential Security challenges, you will learn the basic skills of SQL Injection and Path Traversal. You receive the Certified Secure Essential Security certificate after successfully completing the I know what you mean quiz and the IDB Challenge online. The Essential Security certificate demonstrates that you have mastered SQL Injection and Path Traversal skills."
+View cerificate
+View personal Certified Secure profile [https://www.certifiedsecure.com/profile?alias=dfir-yara]
 
 ## Essential Specialties 
 ### Certified Secure
-"Na het behalen van het Essential Security certificaat heb je direct toegang tot de Essential Specialties. De verschillende challenges in deze certificering vragen het uiterste van je op het gebied van SQL Injection en Path Traversal. Je krijgt het Certified Secure Essential Specialities certificaat nadat je zowel de Distelcorp Challenge, de Boris Challenge en last but not least, de CTF Challenge online succesvol hebt afgerond. Het Essential Specialties certificaat toont aan dat je je gespecialiseerd hebt in SQL Injection en Path Traversal."
-Bekijk certificaat
-Bekijk persoonlijk Certified Secure profiel [https://www.certifiedsecure.com/profile?alias=dfir-yara]
+"After obtaining the Essential Security certificate, you have immediate access to the Essential Specialties. The various challenges in this certification test your skills to the limit in SQL Injection and Path Traversal. You receive the Certified Secure Essential Specialties certificate after successfully completing the Distelcorp Challenge, the Boris Challenge, and last but not least, the CTF Challenge online. The Essential Specialties certificate demonstrates that you have specialized in SQL Injection and Path Traversal."
+View cerificate
+View personal Certified Secure profile [https://www.certifiedsecure.com/profile?alias=dfir-yara]
 
 ## Security Specialist
 ### Certified Secure
-"Na Essential Specialties, is de volgende stap in Server en Application Security de Security Specialist certificering. De challenges op dit niveau zijn een uitdaging voor zelfs de meest gemotiveerde deelnemer. Het certificaat garandeert dat je de werking van de meest voorkomende gevaren voor websites en servers begrijpt, je een portscan en software-version scan kunt uitvoeren en dat je Cross Site Scripting, geavanceerde SQL Injection en geavanceerde Path Traversal kunt ontdekken en demonstreren."
-Bekijk certificaat
-Bekijk persoonlijk Certified Secure profiel [https://www.certifiedsecure.com/profile?alias=dfir-yara]
+"After Essential Specialties, the next step in Server and Application Security is the Security Specialist certification. The challenges at this level are demanding even for the most motivated participant. The certificate guarantees that you understand the workings of the most common threats to websites and servers, you can perform a port scan and software-version scan, and you can detect and demonstrate Cross Site Scripting, advanced SQL Injection, and advanced Path Traversal."
+View cerificate
+View personal Certified Secure profile [https://www.certifiedsecure.com/profile?alias=dfir-yara]
 
 ## Web Security Specialist 
 ### Certified Secure
-"De Web Security Specialist Specialty certificering biedt de deelnemer een uitdagende challenge waarbij de beveiliging van verschillende websites aan de kaak wordt gesteld. Door een aantal van de meest voorkomende aanvallen zelf uit te voeren krijgt de deelnemer een gedegen begrip van Javascript authenticatie, identifier based authenticatie, command injection, PHP uploads, Cross Site Request Forgery en password guessing."
-Bekijk certificaat
-Bekijk persoonlijk Certified Secure profiel [https://www.certifiedsecure.com/profile?alias=dfir-yara]
+"The Web Security Specialist Specialty certification offers the participant a challenging challenge where the security of various websites is put to the test. By performing some of the most common attacks yourself, the participant gains a solid understanding of Javascript authentication, identifier-based authentication, command injection, PHP uploads, Cross Site Request Forgery, and password guessing."
+View cerificate
+View personal Certified Secure profile [https://www.certifiedsecure.com/profile?alias=dfir-yara]
 
 ## Forensic Specialist
 ### Certified Secure
-"De Forensic Specialist Specialty certificering is specifiek gericht op het uitvoeren van basis forensisch onderzoek op een Linux server. De deelnemer krijgt toegang tot een “gehackte” server en krijgt de opdracht de inhoud van de harde schijf veilig te stellen en vervolgens te analyseren. Op basis van deze analyse, in combinatie met het monitoren van het netwerkverkeer, kan de identiteit van de “hackers” achterhaald worden. Een succesvolle afronding van de Forensic Specialist certificering garandeert een basisbegrip van network monitoring en forensische analyse."
-Bekijk certificaat
-Bekijk persoonlijk Certified Secure profiel [https://www.certifiedsecure.com/profile?alias=dfir-yara]
+"The Forensic Specialist Specialty certification is specifically aimed at performing basic forensic investigations on a Linux server. The participant gains access to a “hacked” server and is tasked with securing the contents of the hard drive and then analyzing it. Based on this analysis, combined with monitoring network traffic, the identity of the “hackers” can be determined. Successful completion of the Forensic Specialist certification guarantees a basic understanding of network monitoring and forensic analysis."
+View cerificate
+View personal Certified Secure profile [https://www.certifiedsecure.com/profile?alias=dfir-yara]
