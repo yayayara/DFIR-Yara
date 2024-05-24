@@ -19,8 +19,8 @@ plugins:
 menu:
   - title: Blog
     url:   /blog/
-  - title: Projects
-    url:   /projects/
+  - title: Certificates
+    url:   /certificates/
   - title: Resume
     url:   /resume/
   - title: About
