@@ -29,3 +29,8 @@ menu:
     url:   /study-log/_posts/
   - title: About
     url:   /_posts/
+
+  # Pagination configuration (used by the `blog` layout)
+paginate:              10
+paginate_path:         /page-:num/
+excerpt_separator:     <!--more-->
