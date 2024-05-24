@@ -18,22 +18,6 @@ remote_theme: hydecorp/hydejack@v9.1.6
 plugins:
   - jekyll-include-cache
   - jekyll-avatar
-  - jekyll-default-layout
-  - jekyll-feed
-  - jekyll-optional-front-matter
-  - jekyll-paginate
-  - jekyll-readme-index
-  - jekyll-redirect-from
-  - jekyll-relative-links
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-titles-from-headings
-  - jekyll-last-modified-at
-  - jemoji
-
-# Blog in subdirectory
-# paginate:      10
-# paginate_path: /my-blog/:num/ #!!
 
 # Sidebar
 menu:
@@ -46,9 +30,6 @@ menu:
   - title: About
     url:   /_posts/
 
-# This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2022. All rights reserved.
-
 # Format of the permalinks
 # permalink:             /blog/:categories/:year-:month-:day-:title/
 permalink:             none
@@ -57,21 +38,6 @@ permalink:             none
 paginate:              10
 paginate_path:         /page-:num/
 excerpt_separator:     <!--more-->
-
-# The string encoding which fonts to fetch from Google Fonts.
-# See: <https://hydejack.com/docs/config/#changing-fonts>
-google_fonts:          Noto+Sans+KR|JetBrains+Mono|Nanum+Gothic+Coding
-
-# The text font. Expects a string that is a valid CSS font-family value.
-# To change font-weight, see _sass/variables.scss
-font:                  Noto Sans KR, Helvetica, Arial, sans-serif
-
-# The font used for headings. Expects a string that is a valid CSS font-family value.
-# To change font-weight, see _sass/variables.scss
-font_heading:          Noto Sans KR, Helvetica, Arial, sans-serif
-
-# The font used for code blocks. Expects a string that is a valid CSS font-family value.
-font_code:             JetBrains Mono, Nanum Gothic Coding, Menlo, Monaco, Consolas, monospace;
 
 # Don't include documents in assets in the sitemap
   - scope:
@@ -95,53 +61,6 @@ hydejack:
     dynamic:           true
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              false
-
-collections:
-  featured_categories:
-    permalink:         /:name/
-    output:            true
-  featured_tags:
-    permalink:         /tag-:name/
-    output:            true
-  projects:
-    permalink:         /projects/:path/
-    output:            true
-
-exclude:
-  - .jekyll-cache
-  - .sass-cache
-  - '*.toml'
-  - vendor
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-include:
-  - .well-known
-  - LICENSE.md
-
-optional_front_matter:
-  remove_originals:    true
-
-readme_index:
-  remove_originals:    true
-  with_frontmatter:    true
-
-relative_links:
-  collections:         true
-
-titles_from_headings:
-  strip_title:         true
-  collections:         true
-
-compress_html:
-  comments:            ["<!-- ", " -->"]
-  clippings:           all
-  endings:             all
-  ignore:
-    envs:              [development]
-
-sass:
-  style:               compressed
 
 # jekyll-feed settings
 feed:
