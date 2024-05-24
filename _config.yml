@@ -2,9 +2,13 @@
 title: Yara
 author: 
   name: Yara
-  email: 
   picture:  /assets/img/IMG_0224.jpeg
+  social:
+    linkedin: https://www.linkedin.com/in/yaravanschendel/
+    github:  yayayara
 description: "Master student Computer Science"
+lang: en
+keywords: []
 
 # Theme settings
 remote_theme: hydecorp/hydejack@v9.1.6
