@@ -25,10 +25,10 @@ plugins:
 # Sidebar
 menu:
   - title: Certificates
-    url:   /certificates/_posts/2024-05-22-CertifiedSecure.md
+    url:   /certificates/_posts/
   - title: Resume
     url:   /resume/
   - title: Study Log
     url:   /study-log/_posts/
   - title: About
-    url:   /_posts/2024-05-22-AboutMe.md
+    url:   /_posts/
