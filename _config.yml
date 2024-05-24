@@ -1,4 +1,10 @@
-theme: jekyll-text-theme
+# Basic descriptions
 title: Yara-DFIR
 author: Yara
 description: "My site where I publish my accomplishments and CTF writeups"
+
+# Theme settings
+theme: jekyll-text-theme
+text_skin: orange
+highlight_theme: tomorrow-night-bright
+lang: en
