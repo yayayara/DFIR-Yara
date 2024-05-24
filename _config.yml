@@ -30,7 +30,7 @@ menu:
   - title: Study Log
     url:   /_posts/studylog
   - title: About
-    url:   /_posts/2024-05-22-AboutMe.md
+    url:   about.md
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
