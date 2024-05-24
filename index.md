@@ -1,6 +1,6 @@
 ---
 layout: blog
 title: Welcome
-description: "Yara's page. Master student Computer Science University of Twente"
+description: "Yara, a Master student Computer Science University of Twente"
 ---
 
