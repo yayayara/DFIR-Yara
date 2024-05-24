@@ -22,11 +22,11 @@ plugins:
 # Sidebar
 menu:
   - title: Certificates
-    url:   /certificates/_posts/
+    url:   /_posts/certificates/
   - title: Resume
     url:   /resume/
   - title: Study Log
-    url:   /study-log/_posts/
+    url:   /_posts/studylog/
   - title: About
     url:   /_posts/
 
