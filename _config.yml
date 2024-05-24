@@ -25,7 +25,7 @@ plugins:
 # Sidebar
 menu:
   - title: Certificates
-    url:   /certificates/2024-05-22-CertifiedSecure.md
+    url:   /_posts/2024-05-22-CertifiedSecure.md
   - title: Resume
     url:   /resume/
   - title: Study Log
