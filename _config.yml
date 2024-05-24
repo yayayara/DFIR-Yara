@@ -20,8 +20,8 @@ menu:
   - title: Blog
     url:   /blog/
   - title: Certificates
-    url:   /certificates/
+    url:   /_posts/2024-05-22-Certificates.md
   - title: Resume
     url:   /resume/
   - title: About
-    url:   /about/
+    url:   /_posts/2024-05-22-AboutMe.md
