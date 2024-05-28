@@ -1,10 +1,10 @@
 # Basic descriptions
 title: Yara DFIR
 author: Yara van Schendel
-  # picture:  /assets/img/IMG_0224.jpeg
-  - social:
-    linkedin: yara-vanschendel
-    github:  yayayara
+# picture:  /assets/img/IMG_0224.jpeg
+social:
+  linkedin: yara-vanschendel
+  github:  yayayara
 description: "Master student Computer Science at University of Twente"
 tagline: "Master student Computer Science"
 lang: en
@@ -18,7 +18,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-avatar
 
-# # Sidebar
+# Sidebar
 # menu:
 #   - title: Certificates
 #     url:   /_posts/certificates
@@ -38,13 +38,13 @@ plugins:
 
 # Add links to the sidebar.
 menu:
-  - title:             Resume
-    url:               /_posts/resume/
-  - title:             Certificates
-    url:               /_posts/certificates/
-  - title:             CTF
-    url:               /_posts/ctf/
-   - title:            Study Log
-    url:               /_posts/studylog/
-  - title:             About
-    url:               /_posts/about/
+  - title: Resume
+    url: /_posts/resume/
+  - title: Certificates
+    url: /_posts/certificates/
+  - title: CTF
+    url: /_posts/ctf/
+  - title: Study Log
+    url: /_posts/studylog/
+  - title: About
+    url: /_posts/about/
