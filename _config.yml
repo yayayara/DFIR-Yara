@@ -1,15 +1,14 @@
 # Basic descriptions
-title: Yara
-author: 
-  name: Yara van Schendel
-  picture:  /assets/img/IMG_0224.jpeg
+title: Yara DFIR
+author: Yara van Schendel
+  # picture:  /assets/img/IMG_0224.jpeg
   social:
     linkedin: yara-vanschendel
     github:  yayayara
 description: "Master student Computer Science at University of Twente"
-tagline: "Master student Computer Science"
-lang: en
-keywords: ["Cybersecurity", "Incident response", "digital forensics"]
+# tagline: "Master student Computer Science"
+# lang: en
+# keywords: ["Cybersecurity", "Incident response", "digital forensics"]
 
 # Theme settings
 remote_theme: hydecorp/hydejack@v9.1.6
@@ -40,12 +39,12 @@ plugins:
 # Add links to the sidebar.
 menu:
   - title:             Resume
-    url:               /resume/
+    url:               /_posts/resume/
   - title:             Certificates
-    url:               /certificates/
+    url:               /_posts/certificates/
   - title:             CTF
-    url:               /ctf/
+    url:               /_posts/ctf/
    - title:            Study Log
-    url:               /studylog/
+    url:               /_posts/studylog/
   - title:             About
-    url:               /about/
+    url:               /_posts/about/
