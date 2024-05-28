@@ -36,7 +36,7 @@ keywords:              ["Cybersecurity", "Incident response", "digital forensics
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+# logo:                  /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -333,16 +333,16 @@ include:
 plugins:
   - jekyll-default-layout
   - jekyll-feed
-  - jekyll-optional-front-matter
+  # - jekyll-optional-front-matter
   - jekyll-paginate
   - jekyll-readme-index
-  - jekyll-redirect-from
-  - jekyll-relative-links
-  - jekyll-seo-tag
+  # - jekyll-redirect-from
+  # - jekyll-relative-links
+  # - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-titles-from-headings
+  # - jekyll-titles-from-headings
   - jekyll-include-cache
-  - jekyll-last-modified-at
+  # - jekyll-last-modified-at
 
 
 # SEO Tag
