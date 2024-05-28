@@ -33,9 +33,9 @@ plugins:
 #     url:   about.md
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              10
-paginate_path:         /page-:num/
-excerpt_separator:     <!--more-->
+# paginate:              10
+# paginate_path:         /page-:num/
+# excerpt_separator:     <!--more-->
 
 # Add links to the sidebar.
 menu:
