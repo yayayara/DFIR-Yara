@@ -2,13 +2,13 @@
 title: Yara DFIR
 author: Yara van Schendel
   # picture:  /assets/img/IMG_0224.jpeg
-  social:
+  - social:
     linkedin: yara-vanschendel
     github:  yayayara
 description: "Master student Computer Science at University of Twente"
-# tagline: "Master student Computer Science"
-# lang: en
-# keywords: ["Cybersecurity", "Incident response", "digital forensics"]
+tagline: "Master student Computer Science"
+lang: en
+keywords: ["Cybersecurity", "Incident response", "digital forensics"]
 
 # Theme settings
 remote_theme: hydecorp/hydejack@v9.1.6
