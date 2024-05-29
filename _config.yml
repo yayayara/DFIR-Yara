@@ -334,14 +334,14 @@ plugins:
   - jekyll-default-layout
   - jekyll-feed
   # - jekyll-optional-front-matter
-  - jekyll-paginate
-  - jekyll-readme-index
+  # - jekyll-paginate
+  # - jekyll-readme-index
   # - jekyll-redirect-from
   # - jekyll-relative-links
   # - jekyll-seo-tag
   - jekyll-sitemap
   # - jekyll-titles-from-headings
-  - jekyll-include-cache
+  # - jekyll-include-cache
   # - jekyll-last-modified-at
 
 
@@ -377,56 +377,56 @@ plugins:
 
 # Plugin Configs
 # ---------------------------------------------------------------------------------------
-optional_front_matter:
-  remove_originals:    true
+# optional_front_matter:
+#   remove_originals:    true
 
-readme_index:
-  remove_originals:    true
-  with_frontmatter:    true
+# readme_index:
+#   remove_originals:    true
+#   with_frontmatter:    true
 
-relative_links:
-  collections:         true
+# relative_links:
+#   collections:         true
 
-titles_from_headings:
-  strip_title:         true
-  collections:         true
+# titles_from_headings:
+#   strip_title:         true
+#   collections:         true
 
-compress_html:
-  comments:            ["<!--", "-->"]
-  clippings:           all
-  endings:             all
-  ignore:
-    envs:              [development]
+# compress_html:
+#   comments:            ["<!--", "-->"]
+#   clippings:           all
+#   endings:             all
+#   ignore:
+#     envs:              [development]
 
-sass:
-  style:               compressed
+# sass:
+#   style:               compressed
 
 # Jekyll Compose Defaults
 # ---------------------------------------------------------------------------------------
 
-jekyll_compose:
-  default_front_matter:
-    drafts:
-      layout: post
-      description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-    posts:
-      layout: post
-      description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-    projects:
-      layout: project
-      description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-      links:
-        - title: Project Link
-          url: https://example.com
+# jekyll_compose:
+#   default_front_matter:
+#     drafts:
+#       layout: post
+#       description: > 
+#         A short ~160 character description of your post for search engines,
+#         social media previews, etc.
+#       image:
+#         path: /assets/img/sidebar-bg.jpg
+#     posts:
+#       layout: post
+#       description: > 
+#         A short ~160 character description of your post for search engines,
+#         social media previews, etc.
+#       image:
+#         path: /assets/img/sidebar-bg.jpg
+#     projects:
+#       layout: project
+#       description: > 
+#         A short ~160 character description of your post for search engines,
+#         social media previews, etc.
+#       image:
+#         path: /assets/img/sidebar-bg.jpg
+#       links:
+#         - title: Project Link
+#           url: https://example.com
