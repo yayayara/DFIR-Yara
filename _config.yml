@@ -22,7 +22,7 @@ plugins:
 # Sidebar
 menu:
   - title: Certificates
-    url:   /_posts/certificates/
+    url:   /certificates/_posts
   - title: CTF
     url:   /_posts/ctf/
   - title: Resume
