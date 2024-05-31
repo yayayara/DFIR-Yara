@@ -3,7 +3,7 @@ title: "Certified Secure"
 date: 2024-05-22
 ---
 # Certificates
-De afgelopen tijd heb ik mij beziggehouden met verschillende soorten certificeringen. Hieronder een opsomming.
+In recent times, I have been involved with various types of certifications. Below is a list of all the [Certified Secure](https://www.certifiedsecure.com/frontpage) certificates.
 
 ## Essential Security 
 ### Certified Secure
