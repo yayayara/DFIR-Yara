@@ -22,15 +22,15 @@ plugins:
 # Sidebar
 menu:
   - title: Certificates
-    url:   /certificates/
+    url:   /certificates/index.md
   - title: CTF
-    url:   /ctf/
+    url:   /ctf/index.md
   - title: Resume
-    url:   /resume/
+    url:   /resume/index.md
   - title: Study Log
-    url:   /studylog/
+    url:   /studylog/index.md
   - title: About
-    url:   /aboutMe/
+    url:   /aboutMe/aboutme.md
 
 permalink: pretty
 
