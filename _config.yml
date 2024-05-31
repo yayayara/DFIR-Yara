@@ -2,7 +2,7 @@
 title: Yara
 author: 
   name: Yara van Schendel
-  picture:  /assets/img/IMG_0224.jpeg
+  # picture:  /assets/img/IMG_0224.jpeg
   social:
     linkedin: yara-vanschendel
     github:  yayayara
@@ -22,7 +22,7 @@ plugins:
 # Sidebar
 menu:
   - title: Certificates
-    url:   /certificates/index.md
+    url:   /certificates/_posts/index.md
   - title: CTF
     url:   /ctf/index.md
   - title: Resume
