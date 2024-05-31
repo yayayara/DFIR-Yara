@@ -22,15 +22,15 @@ plugins:
 # Sidebar
 menu:
   - title: Certificates
-    url:   /certificates/_posts
+    url:   /certificates/
   - title: CTF
-    url:   /_posts/ctf/
+    url:   /ctf/
   - title: Resume
-    url:   /_posts/resume/
+    url:   /resume/
   - title: Study Log
-    url:   /_posts/studylog/
+    url:   /studylog/
   - title: About
-    url:   /_posts/aboutMe/
+    url:   /aboutMe/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
