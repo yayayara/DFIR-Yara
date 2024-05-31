@@ -32,6 +32,8 @@ menu:
   - title: About
     url:   /aboutMe/
 
+permalink: pretty
+
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
 paginate_path:         /page-:num/
